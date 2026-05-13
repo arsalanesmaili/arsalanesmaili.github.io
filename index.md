@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/images/Arsala photo.jpg" width="180" style="border-radius: 50%; float: right; margin-left: 20px; border: 3px solid #eee;">
+<img src="/assets/images/Arsalan photo.jpg" width="180" style="border-radius: 50%; float: right; margin-left: 20px; border: 3px solid #eee;">
 
 # Arsalan Esmaeili
 **Interdisciplinary Researcher | Ph.D. [cite_start]Candidate at University of Washington** [cite: 1, 4, 5]
