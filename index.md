@@ -2,30 +2,24 @@
 layout: default
 ---
 
+<img src="/assets/images/Arsalan photo.jpg" width="180" style="border-radius: 50%; float: right; margin-left: 20px; border: 3px solid #eee;">
+
 # Arsalan Esmaeili
-**Ph.D. Candidate in Transportation Engineering | University of Washington**
+**Interdisciplinary Researcher | Ph.D. Candidate at University of Washington**
 
-I am a researcher and developer focused on the intersection of **AI agents, Large Language Models (LLMs), and supply chain logistics.** My work involves applying advanced analytical frameworks to optimize urban freight and transportation systems.
+I am a researcher and developer specializing in the intersection of **Transportation Engineering, Computer Science, and Industrial Engineering**. My work focuses on **next-generation mobility**, specifically building autonomous vehicle (AV) safety pipelines and optimization systems to improve urban freight and logistics.
 
-Currently, I serve as a Graduate Teaching Assistant for the **Supply Chain, Transportation, and Logistics (SCTL)** program and collaborate with the **Urban Freight Lab**.
-
-<img src="/assets/images/Arsalan photo.jpg" width="200" style="border-radius: 50%; float: right; margin-left: 20px; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
----
-
-### 🔍 Research Focus
-* **AI & Logistics:** Integrating AI agents into internal supply chain data for operational efficiency.
-* **Urban Freight:** Developing competition-adjusted accessibility frameworks for Commercial Vehicle Load Zones (CVLZ).
-* **Sustainable Infrastructure:** Optimizing electric vehicle (EV) charging locations.
-
-### 🚀 Technical Projects
-* **Where2Charge:** A Python-based framework for recommending optimal EV charging sites.
-* **Take-a-seat-bot:** A personal software project and automated booking SaaS.
-* **CVLZ Framework:** Data-driven analysis of freight parking transactions in Washington, D.C.
-
-### 🏆 News & Awards
-* **Jan 2026:** Honored to receive the **Best Paper Award** at the 104th Annual Meeting of the Transportation Research Board.
-* **Winter 2026:** Delivered a guest lecture for *SCTL 511: Foundation of Data Analysis*.
+Currently, I serve as the **Lab Manager for the Urban Freight Lab (UFL)** and a Graduate Teaching Assistant for the **Supply Chain, Transportation, and Logistics (SCTL)** program.
 
 ---
 
-[LinkedIn](YOUR_LINK) | [GitHub](YOUR_LINK) | [Email](mailto:your-email@uw.edu)
+### 🎓 Education
+* [cite_start]**Ph.D. in Transportation Engineering**, University of Washington [cite: 5]
+* [cite_start]**M.S. in Computer Science**, Georgia Institute of Technology [cite: 6]
+* [cite_start]**M.S. in Industrial and Systems Engineering**, University of Washington [cite: 8]
+* **M.S. [cite_start]& B.S. in Civil/Transportation Engineering**, University of Tehran [cite: 10, 12]
+
+### 🏛️ Professional Leadership
+* **Lab Manager**, Urban Freight Lab (UFL) [cite: 39]
+* [cite_start]**Instructor**, Graduate-level Travel Demand Forecasting (Python-based instruction) [cite: 42]
+* [cite_start]**Guest Lecturer**, SCTL Master's Program [cite: 44]
