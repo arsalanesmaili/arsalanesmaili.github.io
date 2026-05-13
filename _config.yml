@@ -1,22 +1,16 @@
-# Site Settings
 title: Arsalan Esmaeili
 description: Ph.D. Candidate in Transportation Engineering @ UW
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0 # A cleaner, more modern minimal theme
+plugins:
+  - jekyll-remote-theme
 
-# Navigation (This creates links at the top of your site)
-header_pages:
-  - index.md
-  - projects.md
-
-# Professional Links
-linkedin_username: [Your-LinkedIn-Handle]
-github_username: [Your-GitHub-Handle]
-
-# Google Analytics (Optional, if you want to see who visits)
-# google_analytics: UA-XXXXXXXXX-X
-
-# Navigation links in the header
+# Navigation Links
 header_pages:
   - index.md
   - projects.md
   - publications.md
+
+# Professional IDs
+google_scholar: YOUR_SCHOLAR_ID
+linkedin: arsalan-esmaili
+github: arsalanesmaili
