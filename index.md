@@ -9,6 +9,7 @@ I am a researcher and developer focused on the intersection of **AI agents, Larg
 
 Currently, I serve as a Graduate Teaching Assistant for the **Supply Chain, Transportation, and Logistics (SCTL)** program and collaborate with the **Urban Freight Lab**.
 
+<img src="/assets/images/Arsalan photo.jpg" width="200" style="border-radius: 50%; float: right; margin-left: 20px; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 ---
 
 ### 🔍 Research Focus
