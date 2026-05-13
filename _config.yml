@@ -15,7 +15,8 @@ github_username: [Your-GitHub-Handle]
 # Google Analytics (Optional, if you want to see who visits)
 # google_analytics: UA-XXXXXXXXX-X
 
+# Navigation links in the header
 header_pages:
   - index.md
-  - publications.md
   - projects.md
+  - publications.md
