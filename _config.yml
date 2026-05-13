@@ -17,5 +17,5 @@ github_username: [Your-GitHub-Handle]
 
 header_pages:
   - index.md
+  - publications.md
   - projects.md
-  - cv.md
